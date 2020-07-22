@@ -1,0 +1,16 @@
+#install.packages("RColorBrewer")
+#install.packages("lattice")
+#install.packages("corrplot")
+#install.packages("car")
+#install.packages("ggplot2")
+library(RColorBrewer)
+library(lattice)
+library(corrplot)
+library(car)
+library(ggplot2)
+
+# 실습 3 
+#install.packages("plotly")
+#install.packages("data.table")
+library(plotly)
+library(data.table)
