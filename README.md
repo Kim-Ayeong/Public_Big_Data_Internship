@@ -75,7 +75,7 @@
 
          <img src="https://wikibook.co.kr/images/cover/s/9791158390952.jpg" alt="img" style="zoom:33%;" />
 
-    - 7/23(목) - 프로그래밍 통합 프로젝트
+    - 7/23(목) - Python 프로그래밍 통합 프로젝트
 
     - 7/24(금) - 빅데이터 분석/심화 알고리즘
 
